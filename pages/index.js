@@ -23,8 +23,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          [Hello, I'm Adam. I'm a software engineer and air force engineer. You
-          can find me on{" "}
+          [Hello, I'm Adam. I'm a software engineer. You can find me on{" "}
           <a href="https://www.instagram.com/rogueastronaut/">Instagram</a>.]
         </p>
         <p>
